@@ -73,3 +73,7 @@
 /Users/uwijesek/Desktop/test updated/test/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-202.nib
 /Users/uwijesek/Desktop/test updated/test/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
 /Users/uwijesek/Desktop/test updated/test/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/uwijesek/Desktop/test updated/test/obj/iPhoneSimulator/Debug/optimized/Easy.png
+/Users/uwijesek/Desktop/test updated/test/obj/iPhoneSimulator/Debug/optimized/h.png
+/Users/uwijesek/Desktop/test updated/test/obj/iPhoneSimulator/Debug/optimized/med.png
+/Users/uwijesek/Desktop/test updated/test/obj/iPhoneSimulator/Debug/optimized/image.png

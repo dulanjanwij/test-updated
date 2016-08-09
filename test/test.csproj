@@ -134,6 +134,10 @@
     <BundleResource Include="Resources\btnHard.png" />
     <BundleResource Include="Resources\btnMedium.png" />
     <BundleResource Include="Resources\btnBack.png" />
+    <BundleResource Include="Resources\easy.png" />
+    <BundleResource Include="Resources\h.png" />
+    <BundleResource Include="Resources\med.png" />
+    <BundleResource Include="Resources\image.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>

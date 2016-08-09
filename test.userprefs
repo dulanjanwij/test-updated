@@ -1,5 +1,5 @@
 ﻿<Properties StartupItem="test/test.csproj">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/Main.cs">
     <Files>
       <File FileName="test/Main.cs" Line="16" Column="1" />
     </Files>

@@ -26,6 +26,10 @@ namespace test
         [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UIButton btnMedium { get; set; }
 
+        [Action ("BtnMedium_TouchUpInside:")]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        partial void BtnMedium_TouchUpInside (UIKit.UIButton sender);
+
         void ReleaseDesignerOutlets ()
         {
             if (btn_easy != null) {
