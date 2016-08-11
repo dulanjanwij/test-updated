@@ -165,5 +165,6 @@
         <image name="easy.png" width="180" height="50"/>
         <image name="h.png" width="180" height="50"/>
         <image name="med.png" width="180" height="50"/>
+        <image name="image.png" width="347" height="159"/>
     </resources>
 </document>
